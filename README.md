@@ -53,20 +53,20 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 February 2023 - To: 03 March 2026
+From: 20 February 2023 - To: 04 March 2026
 
-Total Time: 1,123 hrs 2 mins
+Total Time: 1,127 hrs 21 mins
 
-Dart              513 hrs 44 mins       >>>>>>>>>>>--------------   45.75 %
-JavaScript        181 hrs 37 mins       >>>>---------------------   16.17 %
-Python            123 hrs               >>>----------------------   10.95 %
-Markdown          68 hrs 39 mins        >>-----------------------   06.11 %
-C++               43 hrs 26 mins        >------------------------   03.87 %
-TypeScript        21 hrs 4 mins         -------------------------   01.88 %
-YAML              20 hrs 5 mins         -------------------------   01.79 %
+Dart              513 hrs 44 mins       >>>>>>>>>>>--------------   45.57 %
+JavaScript        181 hrs 37 mins       >>>>---------------------   16.11 %
+Python            123 hrs               >>>----------------------   10.91 %
+Markdown          71 hrs 6 mins         >>-----------------------   06.31 %
+C++               43 hrs 26 mins        >------------------------   03.85 %
+TypeScript        22 hrs 38 mins        >------------------------   02.01 %
+YAML              20 hrs 5 mins         -------------------------   01.78 %
 JSON              19 hrs 49 mins        -------------------------   01.76 %
 Java              17 hrs 6 mins         -------------------------   01.52 %
-CSHTML            16 hrs                -------------------------   01.43 %
+CSHTML            16 hrs                -------------------------   01.42 %
 ```
 
 <!--END_SECTION:waka-->
